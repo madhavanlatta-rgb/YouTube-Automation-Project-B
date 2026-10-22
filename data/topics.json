@@ -1,0 +1,68 @@
+{
+  "topics": [
+    {
+      "id": "four_stroke_engine",
+      "title": "How a Four-Stroke Engine Works",
+      "central_question": "How does a four-stroke internal combustion engine turn fuel into motion?",
+      "outline": [
+        "Introduction: the engine's job and the central question",
+        "The four strokes: intake, compression, power, exhaust",
+        "Key components: piston, crankshaft, valves, camshaft, spark plug",
+        "Intake stroke \u2014 drawing in air-fuel mixture",
+        "Compression stroke \u2014 squeezing the mixture",
+        "Power stroke \u2014 ignition and expansion",
+        "Exhaust stroke \u2014 pushing out burned gases",
+        "How the crankshaft turns reciprocating motion into rotation",
+        "History, applications, limitations, and failure modes",
+        "Conclusion and curiosity question"
+      ],
+      "intended_audience": "General audience interested in how machines work; no engineering background required.",
+      "sources": [],
+      "status": "completed",
+      "created_at": "2026-10-22T03:48:59.020442+00:00",
+      "selected_at": "2026-10-22T03:55:01.318209+00:00",
+      "completed_at": "2026-10-22T04:01:51.640124+00:00"
+    },
+    {
+      "id": "car_differential",
+      "title": "How a Car Differential Works",
+      "central_question": "Why do the wheels on a car need to spin at different speeds when turning?",
+      "outline": [
+        "Introduction: turning a corner and wheel-speed mismatch",
+        "The problem: scuffing and tire wear without a differential",
+        "Key components: ring gear, pinion, spider gears, side gears, axles",
+        "Straight-ahead driving",
+        "Turning: how the differential splits torque",
+        "Limited-slip and locking differentials",
+        "Failure modes and symptoms",
+        "Conclusion"
+      ],
+      "intended_audience": "General audience interested in automotive mechanisms.",
+      "sources": [],
+      "status": "pending",
+      "created_at": "2026-10-22T03:48:59.022891+00:00",
+      "selected_at": null,
+      "completed_at": null
+    },
+    {
+      "id": "jet_engine",
+      "title": "How a Jet Engine Works",
+      "central_question": "How does a jet engine produce thrust from air and fuel?",
+      "outline": [
+        "Introduction: Newton's third law and thrust",
+        "The Brayton cycle: suck, squeeze, bang, blow",
+        "Key components: intake, compressor, combustor, turbine, nozzle",
+        "Airflow through the engine",
+        "Turbojet vs turbofan",
+        "Applications and limitations",
+        "Conclusion"
+      ],
+      "intended_audience": "General audience interested in aviation and propulsion.",
+      "sources": [],
+      "status": "pending",
+      "created_at": "2026-10-22T03:48:59.022973+00:00",
+      "selected_at": null,
+      "completed_at": null
+    }
+  ]
+}

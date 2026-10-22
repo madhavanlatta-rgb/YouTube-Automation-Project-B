@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:18,002
+How does an engine turn a liquid fuel into the motion that moves a car? The answer is a repeating cycle of four strokes. Inside each cylinder, a piston moves up and down, and that up-and-down motion becomes the rotation that turns the wheels. This is the four-stroke engine.
+
+2
+00:00:18,002 --> 00:00:31,167
+The cycle has four stages: intake, compression, power, and exhaust. Two full up-and-down trips of the piston complete one cycle, and the crankshaft turns twice for every power stroke.
+
+3
+00:00:31,167 --> 00:00:48,508
+The piston slides inside the cylinder. Connecting rod links the piston to the crankshaft, which turns linear motion into rotation. The intake valve lets fresh mixture in, the exhaust valve lets burned gas out, and the spark plug ignites the mixture at the right moment.
+
+4
+00:00:48,508 --> 00:00:58,713
+First, intake. The piston moves down, the intake valve opens, and the cylinder fills with an air-fuel mixture. It is like drawing breath into a lung.
+
+5
+00:00:58,713 --> 00:01:10,086
+Next, compression. Both valves close. The piston moves up, squeezing the mixture into a small space at the top of the cylinder. Compressed mixture is ready to burn.
+
+6
+00:01:10,086 --> 00:01:23,241
+Then, power. At the top, the spark plug fires. The mixture ignites, pressure rises, and the expanding gases push the piston down hard. This is the only stroke that produces power.
+
+7
+00:01:23,241 --> 00:01:33,850
+Finally, exhaust. The exhaust valve opens, the piston moves up, and it pushes the burned gases out of the cylinder. The cycle is ready to begin again.
+
+8
+00:01:33,850 --> 00:01:44,903
+The piston moves in a straight line, but the wheels need rotation. The crankshaft converts that up-and-down motion into smooth rotation, delivering power to the drivetrain.
+
+9
+00:01:44,903 --> 00:02:03,310
+The four-stroke cycle was developed by Nikolaus Otto in 1876. It powers most cars today. Limitations include heat loss, friction, and emissions. Common failure modes: worn piston rings, leaky valves, and timing problems.
+
+10
+00:02:03,310 --> 00:02:15,819
+Intake, compression, power, exhaust — four strokes, repeated thousands of times per minute. A simple cycle that moves the modern world. What machine should we explain next?
+

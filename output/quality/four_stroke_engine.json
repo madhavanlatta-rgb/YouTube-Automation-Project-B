@@ -1,0 +1,76 @@
+{
+  "topic_id": "four_stroke_engine",
+  "title": "How a Four-Stroke Engine Works",
+  "video_file": "output/video/four_stroke_engine_final.mp4",
+  "checks": [
+    {
+      "name": "video_exists",
+      "passed": true,
+      "evidence": "Video file present: 3143822 bytes.",
+      "severity": "error"
+    },
+    {
+      "name": "video_decodable",
+      "passed": true,
+      "evidence": "ffprobe read format and streams.",
+      "severity": "error"
+    },
+    {
+      "name": "audio_present",
+      "passed": true,
+      "evidence": "Audio stream present.",
+      "severity": "error"
+    },
+    {
+      "name": "captions_present",
+      "passed": true,
+      "evidence": "Captions sidecar SRT present.",
+      "severity": "error"
+    },
+    {
+      "name": "duration_within_limit",
+      "passed": true,
+      "evidence": "Duration 135.8s <= 1200s.",
+      "severity": "error"
+    },
+    {
+      "name": "duration_reasonable",
+      "passed": true,
+      "evidence": "Duration reasonable: 135.8s.",
+      "severity": "error"
+    },
+    {
+      "name": "scenes_not_placeholder",
+      "passed": true,
+      "evidence": "Frame variation detected (0.01 mean diff).",
+      "severity": "error"
+    },
+    {
+      "name": "audio_not_silent",
+      "passed": true,
+      "evidence": "Audio track present.",
+      "severity": "error"
+    },
+    {
+      "name": "thumbnail_valid",
+      "passed": true,
+      "evidence": "Thumbnail valid: output/thumbnails/four_stroke_engine_thumbnail.jpg.",
+      "severity": "error"
+    },
+    {
+      "name": "claims_supported",
+      "passed": true,
+      "evidence": "No unsupported factual claims recorded.",
+      "severity": "error"
+    },
+    {
+      "name": "script_valid",
+      "passed": true,
+      "evidence": "Script valid (10 scenes, 321 words).",
+      "severity": "error"
+    }
+  ],
+  "passed": true,
+  "max_duration_seconds": 1200,
+  "created_at": "2026-10-22T04:01:36.744610"
+}

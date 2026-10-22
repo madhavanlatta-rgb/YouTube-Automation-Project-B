@@ -1,0 +1,23 @@
+name: youtube_automation
+version: "0.1.0"
+description: >
+  Independent, reproducible YouTube automation pipeline for educational
+  technical videos. Free / open-source tools only. No mandatory paid APIs.
+primary_python: "3.14"
+tools:
+  - ffmpeg
+  - ffprobe
+  - espeak-ng
+  - Pillow
+  - numpy
+  - pytest
+output_resolution: [1280, 720]
+fps: 24
+max_duration_seconds: 1200
+tts_engine: espeak-ng
+tts_voice: en+m3
+sample_topic: four_stroke_engine
+sample_title: "How a Four-Stroke Engine Works"
+schedule_cron: "0 12 */2 * *"   # one video every two days at noon UTC
+dry_run_upload: true
+cache_intermediates: true

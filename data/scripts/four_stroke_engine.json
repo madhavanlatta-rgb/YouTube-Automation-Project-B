@@ -1,0 +1,103 @@
+{
+  "topic_id": "four_stroke_engine",
+  "title": "How a Four-Stroke Engine Works",
+  "central_question": "How does a four-stroke internal combustion engine turn fuel into motion?",
+  "scenes": [
+    {
+      "index": 1,
+      "title": "Introduction",
+      "narration": "How does an engine turn a liquid fuel into the motion that moves a car? The answer is a repeating cycle of four strokes. Inside each cylinder, a piston moves up and down, and that up-and-down motion becomes the rotation that turns the wheels. This is the four-stroke engine.",
+      "visual_direction": "Opening title card: 'How a Four-Stroke Engine Works'. Sepia technical drawing of a single-cylinder engine cutaway. Fade in labels for piston, crankshaft, intake valve, exhaust valve, and spark plug.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 21.0
+    },
+    {
+      "index": 2,
+      "title": "The four strokes",
+      "narration": "The cycle has four stages: intake, compression, power, and exhaust. Two full up-and-down trips of the piston complete one cycle, and the crankshaft turns twice for every power stroke.",
+      "visual_direction": "Diagram showing the four strokes in sequence around a circle. Label each: Intake, Compression, Power, Exhaust. Arrow shows clockwise cycle direction.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 12.428571428571429
+    },
+    {
+      "index": 3,
+      "title": "Components",
+      "narration": "The piston slides inside the cylinder. Connecting rod links the piston to the crankshaft, which turns linear motion into rotation. The intake valve lets fresh mixture in, the exhaust valve lets burned gas out, and the spark plug ignites the mixture at the right moment.",
+      "visual_direction": "Exploded view of the cylinder assembly. Arrows show piston up/down motion, connecting rod swinging, crankshaft rotating. Each part labeled in dark pencil.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 19.28571428571429
+    },
+    {
+      "index": 4,
+      "title": "Intake stroke",
+      "narration": "First, intake. The piston moves down, the intake valve opens, and the cylinder fills with an air-fuel mixture. It is like drawing breath into a lung.",
+      "visual_direction": "Animation: piston travels from top to bottom. Intake valve opens, arrow shows mixture flowing into cylinder. Exhaust valve stays closed. Label: Intake.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 11.142857142857142
+    },
+    {
+      "index": 5,
+      "title": "Compression stroke",
+      "narration": "Next, compression. Both valves close. The piston moves up, squeezing the mixture into a small space at the top of the cylinder. Compressed mixture is ready to burn.",
+      "visual_direction": "Animation: piston moves bottom to top. Both valves closed. Arrow shows mixture being compressed. Label: Compression.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 12.0
+    },
+    {
+      "index": 6,
+      "title": "Power stroke",
+      "narration": "Then, power. At the top, the spark plug fires. The mixture ignites, pressure rises, and the expanding gases push the piston down hard. This is the only stroke that produces power.",
+      "visual_direction": "Animation: spark plug fires (flash), flame front spreads, pressure arrow pushes piston down. Crankshaft rotates. Label: Power.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 13.285714285714285
+    },
+    {
+      "index": 7,
+      "title": "Exhaust stroke",
+      "narration": "Finally, exhaust. The exhaust valve opens, the piston moves up, and it pushes the burned gases out of the cylinder. The cycle is ready to begin again.",
+      "visual_direction": "Animation: exhaust valve opens, arrow shows burned gas leaving, piston moves bottom to top. Label: Exhaust. Fade to full cycle.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 11.571428571428571
+    },
+    {
+      "index": 8,
+      "title": "From reciprocation to rotation",
+      "narration": "The piston moves in a straight line, but the wheels need rotation. The crankshaft converts that up-and-down motion into smooth rotation, delivering power to the drivetrain.",
+      "visual_direction": "Close-up of crankshaft and connecting rod. Highlight the crank pin offset from the center. Arrow traces the circular path as the piston moves.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 11.142857142857142
+    },
+    {
+      "index": 9,
+      "title": "History, uses, limits, failures",
+      "narration": "The four-stroke cycle was developed by Nikolaus Otto in 1876. It powers most cars today. Limitations include heat loss, friction, and emissions. Common failure modes: worn piston rings, leaky valves, and timing problems.",
+      "visual_direction": "Sepia timeline: Otto engine illustration. Icons for car, lawnmower, generator. Warning icons next to failure-mode labels.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 14.142857142857142
+    },
+    {
+      "index": 10,
+      "title": "Conclusion",
+      "narration": "Intake, compression, power, exhaust \u2014 four strokes, repeated thousands of times per minute. A simple cycle that moves the modern world. What machine should we explain next?",
+      "visual_direction": "Full engine cutaway running through all four strokes smoothly. Fade out with title and question on screen.",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 0.0,
+      "duration_seconds": 11.571428571428571
+    }
+  ],
+  "estimated_duration_seconds": 137.57142857142856,
+  "word_count": 321,
+  "speaking_rate_wpm": 140,
+  "validation_notes": [],
+  "is_valid": true,
+  "created_at": "2026-10-22T03:49:07.082305+00:00"
+}

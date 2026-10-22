@@ -1,0 +1,15 @@
+name: youtube_automation
+version: "0.1.0"
+output_resolution: [1280, 720]
+fps: 24
+max_duration_seconds: 1200
+tts_engine: espeak-ng
+tts_voice: en+m3
+sample_topic: four_stroke_engine
+sample_title: "How a Four-Stroke Engine Works"
+schedule_cron: "0 12 */2 * *"
+dry_run_upload: true
+cache_intermediates: true
+
+# Credentials (keep out of source code; use env vars at runtime):
+# YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET, YOUTUBE_REFRESH_TOKEN

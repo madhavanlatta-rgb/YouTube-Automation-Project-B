@@ -1,0 +1,204 @@
+{
+  "topic_id": "four_stroke_engine",
+  "scenes": [
+    {
+      "index": 1,
+      "title": "Title",
+      "frames": [
+        "output/animation/four_stroke_engine/title/frame_000.png"
+      ],
+      "duration_seconds": 18.002041,
+      "fps": 24
+    },
+    {
+      "index": 2,
+      "title": "The four strokes",
+      "frames": [
+        "output/animation/four_stroke_engine/scene0/frame_000.png"
+      ],
+      "duration_seconds": 13.165533,
+      "fps": 24
+    },
+    {
+      "index": 3,
+      "title": "Components",
+      "frames": [
+        "output/animation/four_stroke_engine/scene0/frame_000.png"
+      ],
+      "duration_seconds": 17.341315,
+      "fps": 24
+    },
+    {
+      "index": 4,
+      "title": "Intake stroke",
+      "frames": [
+        "output/animation/four_stroke_engine/intake/frame_000.png",
+        "output/animation/four_stroke_engine/intake/frame_001.png",
+        "output/animation/four_stroke_engine/intake/frame_002.png",
+        "output/animation/four_stroke_engine/intake/frame_003.png",
+        "output/animation/four_stroke_engine/intake/frame_004.png",
+        "output/animation/four_stroke_engine/intake/frame_005.png",
+        "output/animation/four_stroke_engine/intake/frame_006.png",
+        "output/animation/four_stroke_engine/intake/frame_007.png",
+        "output/animation/four_stroke_engine/intake/frame_008.png",
+        "output/animation/four_stroke_engine/intake/frame_009.png",
+        "output/animation/four_stroke_engine/intake/frame_010.png",
+        "output/animation/four_stroke_engine/intake/frame_011.png",
+        "output/animation/four_stroke_engine/intake/frame_012.png",
+        "output/animation/four_stroke_engine/intake/frame_013.png",
+        "output/animation/four_stroke_engine/intake/frame_014.png",
+        "output/animation/four_stroke_engine/intake/frame_015.png",
+        "output/animation/four_stroke_engine/intake/frame_016.png",
+        "output/animation/four_stroke_engine/intake/frame_017.png",
+        "output/animation/four_stroke_engine/intake/frame_018.png",
+        "output/animation/four_stroke_engine/intake/frame_019.png",
+        "output/animation/four_stroke_engine/intake/frame_020.png",
+        "output/animation/four_stroke_engine/intake/frame_021.png",
+        "output/animation/four_stroke_engine/intake/frame_022.png",
+        "output/animation/four_stroke_engine/intake/frame_023.png"
+      ],
+      "duration_seconds": 10.204626,
+      "fps": 24
+    },
+    {
+      "index": 5,
+      "title": "Compression stroke",
+      "frames": [
+        "output/animation/four_stroke_engine/compression/frame_000.png",
+        "output/animation/four_stroke_engine/compression/frame_001.png",
+        "output/animation/four_stroke_engine/compression/frame_002.png",
+        "output/animation/four_stroke_engine/compression/frame_003.png",
+        "output/animation/four_stroke_engine/compression/frame_004.png",
+        "output/animation/four_stroke_engine/compression/frame_005.png",
+        "output/animation/four_stroke_engine/compression/frame_006.png",
+        "output/animation/four_stroke_engine/compression/frame_007.png",
+        "output/animation/four_stroke_engine/compression/frame_008.png",
+        "output/animation/four_stroke_engine/compression/frame_009.png",
+        "output/animation/four_stroke_engine/compression/frame_010.png",
+        "output/animation/four_stroke_engine/compression/frame_011.png",
+        "output/animation/four_stroke_engine/compression/frame_012.png",
+        "output/animation/four_stroke_engine/compression/frame_013.png",
+        "output/animation/four_stroke_engine/compression/frame_014.png",
+        "output/animation/four_stroke_engine/compression/frame_015.png",
+        "output/animation/four_stroke_engine/compression/frame_016.png",
+        "output/animation/four_stroke_engine/compression/frame_017.png",
+        "output/animation/four_stroke_engine/compression/frame_018.png",
+        "output/animation/four_stroke_engine/compression/frame_019.png",
+        "output/animation/four_stroke_engine/compression/frame_020.png",
+        "output/animation/four_stroke_engine/compression/frame_021.png",
+        "output/animation/four_stroke_engine/compression/frame_022.png",
+        "output/animation/four_stroke_engine/compression/frame_023.png"
+      ],
+      "duration_seconds": 11.373197,
+      "fps": 24
+    },
+    {
+      "index": 6,
+      "title": "Power stroke",
+      "frames": [
+        "output/animation/four_stroke_engine/power/frame_000.png",
+        "output/animation/four_stroke_engine/power/frame_001.png",
+        "output/animation/four_stroke_engine/power/frame_002.png",
+        "output/animation/four_stroke_engine/power/frame_003.png",
+        "output/animation/four_stroke_engine/power/frame_004.png",
+        "output/animation/four_stroke_engine/power/frame_005.png",
+        "output/animation/four_stroke_engine/power/frame_006.png",
+        "output/animation/four_stroke_engine/power/frame_007.png",
+        "output/animation/four_stroke_engine/power/frame_008.png",
+        "output/animation/four_stroke_engine/power/frame_009.png",
+        "output/animation/four_stroke_engine/power/frame_010.png",
+        "output/animation/four_stroke_engine/power/frame_011.png",
+        "output/animation/four_stroke_engine/power/frame_012.png",
+        "output/animation/four_stroke_engine/power/frame_013.png",
+        "output/animation/four_stroke_engine/power/frame_014.png",
+        "output/animation/four_stroke_engine/power/frame_015.png",
+        "output/animation/four_stroke_engine/power/frame_016.png",
+        "output/animation/four_stroke_engine/power/frame_017.png",
+        "output/animation/four_stroke_engine/power/frame_018.png",
+        "output/animation/four_stroke_engine/power/frame_019.png",
+        "output/animation/four_stroke_engine/power/frame_020.png",
+        "output/animation/four_stroke_engine/power/frame_021.png",
+        "output/animation/four_stroke_engine/power/frame_022.png",
+        "output/animation/four_stroke_engine/power/frame_023.png"
+      ],
+      "duration_seconds": 13.155238,
+      "fps": 24
+    },
+    {
+      "index": 7,
+      "title": "Exhaust stroke",
+      "frames": [
+        "output/animation/four_stroke_engine/exhaust/frame_000.png",
+        "output/animation/four_stroke_engine/exhaust/frame_001.png",
+        "output/animation/four_stroke_engine/exhaust/frame_002.png",
+        "output/animation/four_stroke_engine/exhaust/frame_003.png",
+        "output/animation/four_stroke_engine/exhaust/frame_004.png",
+        "output/animation/four_stroke_engine/exhaust/frame_005.png",
+        "output/animation/four_stroke_engine/exhaust/frame_006.png",
+        "output/animation/four_stroke_engine/exhaust/frame_007.png",
+        "output/animation/four_stroke_engine/exhaust/frame_008.png",
+        "output/animation/four_stroke_engine/exhaust/frame_009.png",
+        "output/animation/four_stroke_engine/exhaust/frame_010.png",
+        "output/animation/four_stroke_engine/exhaust/frame_011.png",
+        "output/animation/four_stroke_engine/exhaust/frame_012.png",
+        "output/animation/four_stroke_engine/exhaust/frame_013.png",
+        "output/animation/four_stroke_engine/exhaust/frame_014.png",
+        "output/animation/four_stroke_engine/exhaust/frame_015.png",
+        "output/animation/four_stroke_engine/exhaust/frame_016.png",
+        "output/animation/four_stroke_engine/exhaust/frame_017.png",
+        "output/animation/four_stroke_engine/exhaust/frame_018.png",
+        "output/animation/four_stroke_engine/exhaust/frame_019.png",
+        "output/animation/four_stroke_engine/exhaust/frame_020.png",
+        "output/animation/four_stroke_engine/exhaust/frame_021.png",
+        "output/animation/four_stroke_engine/exhaust/frame_022.png",
+        "output/animation/four_stroke_engine/exhaust/frame_023.png"
+      ],
+      "duration_seconds": 10.608889,
+      "fps": 24
+    },
+    {
+      "index": 8,
+      "title": "From reciprocation to rotation",
+      "frames": [
+        "output/animation/four_stroke_engine/scene0/frame_000.png"
+      ],
+      "duration_seconds": 11.052472,
+      "fps": 24
+    },
+    {
+      "index": 9,
+      "title": "History, uses, limits, failures",
+      "frames": [
+        "output/animation/four_stroke_engine/scene0/frame_000.png"
+      ],
+      "duration_seconds": 18.407347,
+      "fps": 24
+    },
+    {
+      "index": 10,
+      "title": "Conclusion",
+      "frames": [
+        "output/animation/four_stroke_engine/scene0/frame_000.png"
+      ],
+      "duration_seconds": 12.508617,
+      "fps": 24
+    },
+    {
+      "index": 99,
+      "title": "Conclusion",
+      "frames": [
+        "output/animation/four_stroke_engine/title/frame_000.png"
+      ],
+      "duration_seconds": 1.5,
+      "fps": 24
+    }
+  ],
+  "video_file": "output/animation/four_stroke_engine_animation.mp4",
+  "total_duration_seconds": 137.319275,
+  "fps": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "issues": []
+}

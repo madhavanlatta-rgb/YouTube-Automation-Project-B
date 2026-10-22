@@ -1,0 +1,23 @@
+# Scheduler configuration for unattended cloud runs.
+# Target: one video every two days.
+schedule:
+  enabled: false          # flip to true when cloud credentials are configured
+  cron: "0 12 */2 * *"    # every two days at 12:00 UTC
+  timezone: UTC
+  max_concurrent_jobs: 1
+  duplicate_prevention: true
+  retry_limits:
+    max_stage_retries: 3
+    max_pipeline_retries: 1
+  resume:
+    safe_resume: true
+    preserve_logs: true
+paths:
+  work_dir: /workspace/YouTube-Automation-Project-B
+  output_dir: output
+  log_dir: logs
+  cache_dir: .cache
+  state_dir: .state
+monitoring:
+  status_command: python3 -m src.scheduler status
+  log_retention_days: 30

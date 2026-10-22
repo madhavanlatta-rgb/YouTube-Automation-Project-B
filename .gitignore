@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Runtime / cache / logs (not part of the deliverable source)
+.state/
+logs/
+.cache/
+
+# Intermediate render artifacts (keep only final deliverables in output/)
+output/narration/*.wav
+output/animation/**/scene_*.mp4
+output/animation/**/*.png
+output/quality/.frames/
+output/publish/
+
+# OS
+.DS_Store

@@ -1,0 +1,67 @@
+{
+  "topic_id": "four_stroke_engine",
+  "title": "How a Four-Stroke Engine Works",
+  "created_at": "2026-10-22T04:01:51.647300+00:00",
+  "files": [
+    {
+      "path": "output/narration/four_stroke_engine_narration.wav",
+      "kind": "audio",
+      "size_bytes": 5989708,
+      "valid": true,
+      "notes": ""
+    },
+    {
+      "path": "output/narration/four_stroke_engine.srt",
+      "kind": "subtitle",
+      "size_bytes": 2275,
+      "valid": true,
+      "notes": ""
+    },
+    {
+      "path": "output/animation/four_stroke_engine_animation.mp4",
+      "kind": "video",
+      "size_bytes": 1522289,
+      "valid": true,
+      "notes": ""
+    },
+    {
+      "path": "output/thumbnails/four_stroke_engine_thumbnail.jpg",
+      "kind": "thumbnail",
+      "size_bytes": 54039,
+      "valid": true,
+      "notes": ""
+    },
+    {
+      "path": "output/video/four_stroke_engine_final.mp4",
+      "kind": "video",
+      "size_bytes": 3143822,
+      "valid": true,
+      "notes": ""
+    },
+    {
+      "path": "data/scripts/four_stroke_engine.json",
+      "kind": "script",
+      "size_bytes": 5983,
+      "valid": true,
+      "notes": ""
+    },
+    {
+      "path": "data/research/four_stroke_engine.json",
+      "kind": "research",
+      "size_bytes": 2700,
+      "valid": true,
+      "notes": ""
+    }
+  ],
+  "tests": [
+    {
+      "name": "quality_report",
+      "passed": true,
+      "command": "quality.check",
+      "exit_code": 0,
+      "output": "11/11 checks passed"
+    }
+  ],
+  "quality_passed": true,
+  "video_duration_seconds": 135.819002
+}

@@ -1,0 +1,44 @@
+name: "YouTube Automation V3 — Scheduled Build"
+
+on:
+  schedule:
+    # One video every two days at 12:00 UTC
+    - cron: '0 12 */2 * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y ffmpeg espeak-ng python3-pip python3-numpy python3-pillow
+
+      - name: Install Python dependencies
+        run: python3 -m pip install -r requirements.txt pytest
+
+      - name: Run full pipeline (four-stroke engine sample)
+        run: |
+          python3 -m src.pipeline --topic four_stroke_engine --run-all --manual
+
+      - name: Run test suite
+        run: pytest
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-automation-outputs
+          path: |
+            output/
+            samples/
+            data/
+
+env:
+  # YouTube credentials are NOT stored here. Provide via repository secrets
+  # when real publishing is approved: YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET,
+  # YOUTUBE_REFRESH_TOKEN.
+  DRY_RUN_UPLOAD: "true"
